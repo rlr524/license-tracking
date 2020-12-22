@@ -1,0 +1,23 @@
+{
+  "name": "license-tracking",
+  "version": "0.1.0",
+  "description": "Regulatory license tracking app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlr524/license-tracking.git"
+  },
+  "author": "Rob Ranf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlr524/license-tracking/issues"
+  },
+  "homepage": "https://github.com/rlr524/license-tracking#readme",
+  "devDependencies": {
+    "eslint": "^7.16.0"
+  }
+}
